@@ -2,7 +2,7 @@
 ---@param data table Formats json data for better readability.
 ---
 function json_format(data)
-    if type(data) == not "table" then
+    if type(data) ~= "table" then
         print("^1Passed data is not of type: table.")
         return
     end
