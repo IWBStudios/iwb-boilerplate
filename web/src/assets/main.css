@@ -1,0 +1,13 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  height: 100%;
+
+  /* DEBUG */
+  /* Dark Image: https://img.gta5-mods.com/q95/images/franklin-s-high-quality-textures/8faa47-20160814224524_1.jpg */
+  /* background-image: url('https://wallpapers.com/images/hd/fivem-itpxp5buqny0spg1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; */
+  /* background-color: var(--iwb-debug-bg); */
+}
