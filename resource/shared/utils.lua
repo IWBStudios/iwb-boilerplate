@@ -1,13 +1,13 @@
 ---
 ---@param data table Formats json data for better readability.
 ---
-function json_format(data)
+function json.format(data)
     if type(data) ~= "table" then
         print("^1Passed data is not of type: table.")
         return
     end
 
-    return json.encode(data, { indent = true, indentCount = 2 })
+    return json.encode(data, { indent = true, indentCount = 4 })
 end
 
 ---
