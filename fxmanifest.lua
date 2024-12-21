@@ -8,7 +8,7 @@ lua54 "on"
 author "IWB Studios"
 description "This is a boilerplate resource."
 version "1.0.0"
--- repository   ''
+repository 'https://github.com/IWBStudios/iwb-boilerplate'
 -- discord      ''
 
 --[[ Manifest ]]
