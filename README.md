@@ -1,9 +1,3 @@
-<!-- <p align="center">
-    <a href="https://github.com/alenvalek/fivem-vuejs-boilerplate">
-        <img src="https://i.ibb.co/NrJDyC2/Five-M-Vue-JS-Boilerplate.png" alt="FiveM VueJS Boilerplate"/>
-    </a>
-</p> -->
-
 <h1 align="center">FiveM Vue 3 and Lua Boilerplate</h1>
 <h3 align="center">A simple and extendable Vue 3 (JavaScript) boilerplate</h3>
 
