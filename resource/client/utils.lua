@@ -15,9 +15,6 @@ function SendMessage(action, data, focus)
     })
 
     if focus then
-        local keyboard = focus.keyboard or false
-        local mouse = focus.mouse or false
-
         SetFocus(focus)
     end
 end
