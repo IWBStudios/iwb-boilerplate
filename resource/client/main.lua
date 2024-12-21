@@ -29,4 +29,4 @@ RegisterNuiCallback('closeNUI', function(_, cb)
 end)
 
 local langTest = 'IWB Studios'
-print('[Client] testing Lang function: ', Translate('test', langTest))
+print('[Client] testing Translate function: ', Translate('test', langTest))

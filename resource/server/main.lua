@@ -1,2 +1,2 @@
 local langTest = 'IWB Studios'
-print('[Server] testing Lang function: ', Translate('test', langTest))
+print('[Server] testing Translate function: ', Translate('test', langTest))
